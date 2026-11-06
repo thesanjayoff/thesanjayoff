@@ -22,7 +22,7 @@
 
 <h3 align="center">🛠️ Tech Stack & Skills</h3>
 <p align="center">
-  <img src="./assets/tech-sphere.gif" alt="Tech Stack Sphere" width="520" />
+  <img src="https://raw.githubusercontent.com/thesanjayoff/thesanjayoff/main/assets/skill-globe.svg" alt="3D Skill Globe" width="520" />
 </p>
 
 | Category | Stack |
