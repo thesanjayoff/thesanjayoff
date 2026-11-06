@@ -22,7 +22,7 @@
 
 <h3 align="center">🛠️ Tech Stack & Skills</h3>
 <p align="center">
-  <img src="https://tech-stack.wontory.dev/api/orbit?text=Sanjay&slugs=python,typescript,javascript,react,nodedotjs,nextdotjs,tailwindcss,postgresql,docker,linux,git" alt="Tech Stack Orbit" />
+  <img src="./assets/tech-sphere.gif" alt="Tech Stack Sphere" width="520" />
 </p>
 
 | Category | Stack |
