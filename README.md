@@ -22,7 +22,7 @@
 
 <h3 align="center">🛠️ Tech Stack & Skills</h3>
 <p align="center">
-  <img src="https://tech-stack.wontory.dev/api/orbit?text=Sanjay&slugs=python,typescript,javascript,java,react,nodedotjs,nextdotjs,tailwindcss,postgresql,docker,linux,git" alt="Tech Stack Orbit" />
+  <img src="https://tech-stack.wontory.dev/api/orbit?text=Sanjay&slugs=python,typescript,javascript,react,nodedotjs,nextdotjs,tailwindcss,postgresql,docker,linux,git" alt="Tech Stack Orbit" />
 </p>
 
 | Category | Stack |
@@ -36,8 +36,8 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesanjayoff&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesanjayoff&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thesanjayoff&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thesanjayoff&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=thesanjayoff&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
