@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/thesanjayoff/thesanjayoff/main/assets/skill-globe.svg" alt="3D Skill Globe" width="520" />
 </p>
 
-<table width="100%">
+<table style="width:100%; table-layout:fixed;">
   <tr>
     <td width="18%" align="center"><strong>🧠 Languages</strong></td>
     <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /></td>
@@ -65,7 +65,7 @@
 
 ### 🚀 Featured Projects
 
-<table width="100%">
+<table style="width:100%; table-layout:fixed;">
   <tr>
     <td width="30%"><a href="https://github.com/thesanjayoff/Phishguard">Phishguard</a></td>
     <td>Phishing detection tool</td>
